@@ -12,9 +12,19 @@ The main objectives of this project are:
 
 ### EDA
 ![Presentase Distribusi level](DistribusiLevel.png)
+The above column represents the percentage of lung inflammation cases based on their levels. It can be observed that cases with a high level have a percentage of 36.5%, for medium-level cases, there is a percentage of 33.2%, and for low-level cases, it is 30.3%.
+
 ![Age Group](ageGroup.png)
+Based on the visualization, it can be observed that patients with a "high" level of lung cancer are predominantly in the adult age category, followed by millennials, while the elderly age category has the fewest cases.
+For patients with a "medium" level, they are also primarily in the adult age category, with the highest number of cases. Similarly, for cases with a "low" level, the majority fall in the adult age category.
+This indicates that patients with lung cancer are predominantly in the adult age group, followed by millennials, teenagers, and the elderly, who have the fewest cases.
+
 ![Gender](Gender2.png)
+The above column indicates which gender of patients has the highest number of cases. Based on the visualization, for lung cancer cases with "high" and "medium" levels, they are predominantly observed in males, while for "low" level cases, females have a higher number of cases.
+
 ![Alcohol Use](AlcoholUse.png)
+Here, I assume that the higher the number in "alcohol use," the more frequently the individual consumes alcohol. Based on the visualization, it can be observed that patients who consume alcohol very frequently tend to have a higher number of "high" level cases of lung cancer.
+
 ### Data and Features
 
 This analysis utilizes a dataset containing various features that may influence the level of lung cancer. Some of these features include:
