@@ -12,6 +12,9 @@ The main objectives of this project are:
 
 ### EDA
 ![Presentase Distribusi level](DistribusiLevel.png)
+![Age Group](ageGroup.png)
+![Gender](Gender2.png)
+![Alcohol Use](AlcoholUse.png)
 ### Data and Features
 
 This analysis utilizes a dataset containing various features that may influence the level of lung cancer. Some of these features include:
