@@ -11,7 +11,7 @@ The main objectives of this project are:
 2. To develop a predictive model for detecting the level of lung cancer in patients based on selected features.
 
 ### EDA
-
+![Presentase Distribusi level](./gambar/download (9).png)
 ### Data and Features
 
 This analysis utilizes a dataset containing various features that may influence the level of lung cancer. Some of these features include:
